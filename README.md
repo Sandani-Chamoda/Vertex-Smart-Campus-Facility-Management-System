@@ -1,4 +1,4 @@
-# it3030-paf-2026-smart-campus-group57
+# Vertex-Smart-Campus-Facility-Management-System
 Smart Campus Operations Hub – PAF Assignment 2026 (Group 57)
 
 ---
